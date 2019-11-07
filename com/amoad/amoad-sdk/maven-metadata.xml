@@ -3,7 +3,7 @@
   <groupId>com.amoad</groupId>
   <artifactId>amoad-sdk</artifactId>
   <versioning>
-    <release>5.2.9</release>
+    <release>5.2.10</release>
     <versions>
       <version>5.2.2</version>
       <version>5.2.3</version>
@@ -13,7 +13,8 @@
       <version>5.2.7</version>
       <version>5.2.8</version>
       <version>5.2.9</version>
+      <version>5.2.10</version>
     </versions>
-    <lastUpdated>20190618080128</lastUpdated>
+    <lastUpdated>20191107044110</lastUpdated>
   </versioning>
 </metadata>
